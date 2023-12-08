@@ -12,6 +12,6 @@ UUID=114e481f-079c-471d-ba84-d6600ebf398f	none      	swap      	defaults  	0 0
 
 # tmpfs
 tmpfs   /tmp    tmpfs  rw,size=20G,nodev,nosuid,noatime,mode=1777 0 0
-tmpfs 	/tmp/paru	tmpfs	rw,size=20G,nodev,nosuid,noatime,mode=1777 0 0
+tmpfs 	/home/absolutex/.cache/paru/clone	tmpfs	rw,size=20G,nodev,nosuid,noatime,mode=1777 0 0
 # /tmp/paru /home/absolutex/.cache/paru/clone  none  rw,exec,async,noatime,nodev,nosuid,bind,mode=1777  0  0
 
