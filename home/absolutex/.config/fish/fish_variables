@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export DEFAULT_TIMEOUT_SEC:10
 SETUVAR --export EDITOR:nvim
 SETUVAR --export GRAVEYARD:/tmp
 SETUVAR __fish_initialized:3400
